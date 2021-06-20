@@ -1,4 +1,7 @@
 # vscode信息
+
+## 相关信息
+如果能不开代理上github网站，那么不开代理也可以上传git
 ## vscode快捷键
 文件切换 ctrl+tab
 同时选中已选中内容：ctrl+shift+L
